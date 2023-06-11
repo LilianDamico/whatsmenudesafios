@@ -1,0 +1,11 @@
+body {
+  margin: 0; 
+  @font-face {
+    font-family: 'Michroma';
+    src: url('../src/assets/fonts/Michroma-Regular.ttf') format('truetype');
+    /* Outras propriedades opcionais, como font-weight e font-style, podem ser adicionadas aqui */
+  }
+}
+
+
+
