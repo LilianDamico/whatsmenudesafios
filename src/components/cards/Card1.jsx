@@ -31,7 +31,6 @@ function MeuComponente() {
             </Card.Body>
           </Card>
         </div>
-        {/* ...outros cards de desafio... */}
       </div>
 
       <Modal show={showModal} onHide={() => setShowModal(false)}>
