@@ -40,7 +40,6 @@ function MeuComponente() {
     <div className="container">
       <h1>Meu Componente</h1>
       <div className="row">
-        {/* ...outros cards de desafio... */}
         <div className="col-md-4">
           <Card>
             <Card.Body>
